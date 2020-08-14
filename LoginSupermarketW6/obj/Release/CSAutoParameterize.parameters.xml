@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:bmkserver.database.windows.net,1433;Initial Catalog=Supermarket;User ID=bmk;Password=reallyStrongPwd123;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\useDell\\Downloads\\ProjectWithoutTemplate_EditedByBMK\\ProjectWithoutTemplate_EditedByBMK\\LoginSupermarketW6\\LoginSupermarketW6\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="LoginSupermarketW6Context-Web.config Connection String" description="LoginSupermarketW6Context Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=LoginSupermarketW6Context-20200710103501; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|LoginSupermarketW6Context-20200710103501.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\useDell\\Downloads\\ProjectWithoutTemplate_EditedByBMK\\ProjectWithoutTemplate_EditedByBMK\\LoginSupermarketW6\\LoginSupermarketW6\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LoginSupermarketW6Context']/@connectionString" />
+  </parameter>
+  <parameter name="SupermarketEntities-Web.config Connection String" description="SupermarketEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.SupermarketModel.csdl|res://*/Models.SupermarketModel.ssdl|res://*/Models.SupermarketModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=bmkserver.database.windows.net,1433;initial catalog=Supermarket;user id=bmk;password=reallyStrongPwd123;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\useDell\\Downloads\\ProjectWithoutTemplate_EditedByBMK\\ProjectWithoutTemplate_EditedByBMK\\LoginSupermarketW6\\LoginSupermarketW6\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SupermarketEntities']/@connectionString" />
+  </parameter>
+</parameters>

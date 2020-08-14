@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SupermarketWeb" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Bui\ Minh\ Khoi\\Desktop\\ProjectWithoutTemplate\\LoginSupermarketW6\\LoginSupermarketW6\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Bui\ Minh\ Khoi\\Desktop\\ProjectWithoutTemplate\\LoginSupermarketW6\\LoginSupermarketW6\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:bmkserver.database.windows.net,1433;Initial Catalog=Supermarket;User ID=bmk;Password=reallyStrongPwd123;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Bui\ Minh\ Khoi\\Desktop\\ProjectWithoutTemplate\\LoginSupermarketW6\\LoginSupermarketW6\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="SupermarketEntities-Web.config Connection String" description="" value="metadata=res://*/Models.SupermarketModel.csdl|res://*/Models.SupermarketModel.ssdl|res://*/Models.SupermarketModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=bmkserver.database.windows.net,1433;initial catalog=Supermarket;user id=bmk;password=reallyStrongPwd123;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Bui\ Minh\ Khoi\\Desktop\\ProjectWithoutTemplate\\LoginSupermarketW6\\LoginSupermarketW6\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SupermarketEntities']/@connectionString" />
+  </parameter>
+  <parameter name="LoginSupermarketW6Context-Web.config Connection String" description="LoginSupermarketW6Context Connection String used in web.config by the application to access the database." value="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=LoginSupermarketW6Context-20200710103501; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|LoginSupermarketW6Context-20200710103501.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Bui\ Minh\ Khoi\\Desktop\\ProjectWithoutTemplate\\LoginSupermarketW6\\LoginSupermarketW6\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LoginSupermarketW6Context']/@connectionString" />
+  </parameter>
+</parameters>

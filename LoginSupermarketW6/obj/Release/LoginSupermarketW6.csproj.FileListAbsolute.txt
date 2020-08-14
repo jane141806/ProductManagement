@@ -1,0 +1,432 @@
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.dll.config
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.pdb
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.exe
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.exe.config
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.rsp
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.exe
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.exe.config
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.rsp
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Managed.Core.targets
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.AppContext.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Collections.Immutable.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Console.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Globalization.Calendars.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.Compression.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.FileSystem.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Net.Http.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Net.Sockets.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Reflection.Metadata.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.ValueTuple.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XmlDocument.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XPath.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.exe
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.exe.config
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.rsp
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\VBCSCompiler.exe
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\VBCSCompiler.exe.config
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Antlr3.Runtime.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.SqlServer.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Core.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Cookies.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Facebook.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Google.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.OAuth.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Twitter.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Web.Infrastructure.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Newtonsoft.Json.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Owin.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Helpers.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Mvc.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Optimization.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Razor.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Deployment.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Razor.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\WebGrease.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Helpers.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Mvc.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Optimization.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Razor.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Deployment.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Razor.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Newtonsoft.Json.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Antlr3.Runtime.pdb
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.SqlServer.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Core.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Facebook.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Cookies.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Google.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Twitter.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.OAuth.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csprojAssemblyReference.cache
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csproj.CoreCompileInputs.cache
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csproj.CopyComplete
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.dll
+E:\useDell\Desktop\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.pdb
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.dll.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.pdb
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.exe
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.exe.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.rsp
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.exe
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.exe.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.rsp
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.AppContext.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Console.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Net.Http.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.exe
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.exe.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.rsp
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Antlr3.Runtime.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.SqlServer.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Newtonsoft.Json.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Owin.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Helpers.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Mvc.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Optimization.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Razor.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\WebGrease.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Helpers.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Mvc.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Optimization.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Razor.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Newtonsoft.Json.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Antlr3.Runtime.pdb
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.SqlServer.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csprojAssemblyReference.cache
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csproj.CoreCompileInputs.cache
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csproj.CopyComplete
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.pdb
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.dll.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.pdb
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.exe
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.exe.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.rsp
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.exe
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.exe.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.rsp
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.AppContext.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Console.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Net.Http.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.exe
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.exe.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.rsp
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Antlr3.Runtime.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.SqlServer.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Newtonsoft.Json.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Owin.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Helpers.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Mvc.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Optimization.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Razor.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\WebGrease.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Helpers.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Mvc.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Optimization.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Razor.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Newtonsoft.Json.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Antlr3.Runtime.pdb
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.SqlServer.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csprojAssemblyReference.cache
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csproj.CoreCompileInputs.cache
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csproj.CopyComplete
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.dll
+C:\Users\Bui Minh Khoi\Desktop\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.pdb
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.dll.config
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\LoginSupermarketW6.pdb
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.exe
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.exe.config
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csc.rsp
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.exe
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.exe.config
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\csi.rsp
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Managed.Core.targets
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.AppContext.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Collections.Immutable.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Console.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Globalization.Calendars.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.Compression.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.FileSystem.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Net.Http.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Net.Sockets.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Reflection.Metadata.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.ValueTuple.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XmlDocument.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XPath.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.exe
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.exe.config
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\vbc.rsp
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\VBCSCompiler.exe
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\roslyn\VBCSCompiler.exe.config
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Antlr3.Runtime.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.SqlServer.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Core.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Cookies.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Facebook.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Google.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.OAuth.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Twitter.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Web.Infrastructure.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Newtonsoft.Json.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Owin.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Helpers.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Mvc.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Optimization.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Razor.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Deployment.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Razor.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\WebGrease.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Helpers.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Mvc.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Optimization.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.Razor.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Deployment.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\System.Web.WebPages.Razor.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Newtonsoft.Json.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Antlr3.Runtime.pdb
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\EntityFramework.SqlServer.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Core.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Facebook.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Cookies.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Google.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.Twitter.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.Owin.Security.OAuth.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csprojAssemblyReference.cache
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csproj.CoreCompileInputs.cache
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.csproj.CopyComplete
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.dll
+E:\useDell\Downloads\ProjectWithoutTemplate_EditedByBMK\ProjectWithoutTemplate_EditedByBMK\LoginSupermarketW6\LoginSupermarketW6\obj\Release\LoginSupermarketW6.pdb
